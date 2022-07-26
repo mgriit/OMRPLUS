@@ -1,10 +1,10 @@
 # What is OMR PLUS? 
-OMR PLUS is a ultimate solution for eavauation of OMR sheet used in different purpose like EXAM  & Servey.
+OMR PLUS is a ultimate solution for evaluation of OMR sheet used in different purpose like EXAM  & Servey.
 # Why OMR PLUS? 
 - It is very easy to use. 
 - Speedy.
-- Has a lots of usefull feature. 
-- We provide customised OMR scripts design according to your needs.  
+- Has a lots of useful feature. 
+- We provide customized OMR scripts design according to your needs.  
 # How to use OMR PLUS? 
 1. Scan asnwer scripts using any scanner and save it to a folder. Answer script looks like following image
 ![scripts](https://github.com/mgriit/OMRPLUS/blob/main/4.jpg "Answer Scripts of OMRPlUS")
